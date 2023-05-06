@@ -14,4 +14,10 @@
 [![Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://images.credly.com/size/110x110/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png)](http://www.credly.com/badges/f9249f29-eb03-4b76-b3ba-df59e98711da "Adobe Certified Professional in Visual Design Using Adobe Photoshop")
 [![App Development with Swift Associate](https://images.credly.com/size/110x110/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)](http://www.credly.com/badges/f1269f48-d771-4798-9261-82801e054d9d "App Development with Swift Associate")
 <!--END_SECTION:badges-->
+<br>
+<hr>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<br>
 <hr>
