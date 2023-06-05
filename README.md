@@ -1,5 +1,5 @@
 # Hi! 👋 My name is [Zarko Vladkov](https://github.com/ZSVladkov22)
-## I'm currently a student at [@codingburgas](https://codingburgas.bg/) and I am learning C++, HTML&CSS. 👨‍💻 I'm very inspired in programming and I love learning it!
+## I am currently a student at @codingburgas, where I am learning C++, HTML, and CSS. 👨‍💻 I am deeply inspired by programming and thoroughly enjoy the process of learning it!
 
 <br>
 
