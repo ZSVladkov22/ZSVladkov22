@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![IT Specialist - HTML and CSS](https://images.credly.com/size/110x110/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png)](http://www.credly.com/badges/ef986e58-3c5b-4831-982a-70833745b91e "IT Specialist - HTML and CSS")
 [![Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/323ec4a8-7d1f-486f-9c68-258947965b8e/image.png)](http://www.credly.com/badges/8c9ee979-cc31-409f-9e9f-68ffad8ceb9e "Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)")
 [![Microsoft Office Specialist: Word Associate (Office 2019)](https://images.credly.com/size/110x110/images/b9912ce7-7c17-40bc-afbb-ca4251ea1416/MOS_Word.png)](http://www.credly.com/badges/a3969d0f-a47c-4bed-8c81-13b19f815867 "Microsoft Office Specialist: Word Associate (Office 2019)")
 [![Adobe Certified Professional in Video Design](https://images.credly.com/size/110x110/images/2753898c-fa5b-4058-9366-a3ce365d5845/Adobe_Certified_Professional_Video_Design_digital_badge.png)](http://www.credly.com/badges/f80126b8-b92b-4db4-b1fd-a120f3d55609 "Adobe Certified Professional in Video Design")
