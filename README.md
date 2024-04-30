@@ -6,6 +6,10 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/48efb29e-31ed-414f-899e-088197b10be7/image.png)](http://www.credly.com/badges/958c11af-2d18-413f-bfd2-41c19eb0878a "Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)")
+[![Microsoft Office Specialist: Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/5df82cee-c54c-4006-b17d-ff9a5127beeb/image.png)](http://www.credly.com/badges/a1fab987-821d-4f18-a8f6-89772278df47 "Microsoft Office Specialist: Associate (Microsoft 365 Apps)")
+[![Microsoft Office Specialist: Associate (Office 2019)](https://images.credly.com/size/110x110/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png)](http://www.credly.com/badges/02575e73-6326-414b-b4df-c612eaec3d20 "Microsoft Office Specialist: Associate (Office 2019)")
+[![Microsoft Office Specialist: PowerPoint Associate (Office 2019)](https://images.credly.com/size/110x110/images/ccfeac51-f472-404a-abf1-97ed89dda03b/MOS_PowerPoint.png)](http://www.credly.com/badges/f2069155-bc99-4b95-a01a-bb1750635ec1 "Microsoft Office Specialist: PowerPoint Associate (Office 2019)")
 [![Microsoft Office Specialist: Excel Associate (Office 2019)](https://images.credly.com/size/110x110/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png)](http://www.credly.com/badges/a26b82fb-a038-4c05-aefa-ed8ce608f031 "Microsoft Office Specialist: Excel Associate (Office 2019)")
 [![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/5d83502a-4dd6-405a-ba46-a42b2e590d65 "Networking Academy Learn-A-Thon 2023")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/67d309a4-cfc4-4543-a419-45a302d11447 "Introduction to Cybersecurity")
