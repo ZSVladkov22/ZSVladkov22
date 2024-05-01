@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](http://www.credly.com/badges/eecaee39-b0ff-4242-9489-493255311fcf "IT Essentials")
 [![Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/48efb29e-31ed-414f-899e-088197b10be7/image.png)](http://www.credly.com/badges/958c11af-2d18-413f-bfd2-41c19eb0878a "Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)")
 [![Microsoft Office Specialist: Associate (Microsoft 365 Apps)](https://images.credly.com/size/110x110/images/5df82cee-c54c-4006-b17d-ff9a5127beeb/image.png)](http://www.credly.com/badges/a1fab987-821d-4f18-a8f6-89772278df47 "Microsoft Office Specialist: Associate (Microsoft 365 Apps)")
 [![Microsoft Office Specialist: Associate (Office 2019)](https://images.credly.com/size/110x110/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png)](http://www.credly.com/badges/02575e73-6326-414b-b4df-c612eaec3d20 "Microsoft Office Specialist: Associate (Office 2019)")
