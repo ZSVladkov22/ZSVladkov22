@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![IT Specialist - Python](https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png)](http://www.credly.com/badges/13d9ef43-93ad-4521-a3aa-86907bd54ee6 "IT Specialist - Python")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/69b6c62b-3ca5-4538-ad15-19deec10dcbb "Introduction to IoT")
 [![IT Specialist - JavaScript](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](http://www.credly.com/badges/f21f2cfd-7964-45a6-b4b7-62ba7c537fe9 "IT Specialist - JavaScript")
 [![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](http://www.credly.com/badges/eecaee39-b0ff-4242-9489-493255311fcf "IT Essentials")
