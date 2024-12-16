@@ -6,6 +6,8 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/d4074271-3f5a-4099-938b-aa90106ef872 "Endpoint Security")
+[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](http://www.credly.com/badges/252fad33-da4e-4e57-8c25-e929fc0c40b3 "Junior Cybersecurity Analyst Career Path")
 [![Network Defense](https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](http://www.credly.com/badges/d4e54453-3376-4694-81d9-85a6e1044a29 "Network Defense")
 [![IT Specialist - Python](https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png)](http://www.credly.com/badges/13d9ef43-93ad-4521-a3aa-86907bd54ee6 "IT Specialist - Python")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/69b6c62b-3ca5-4538-ad15-19deec10dcbb "Introduction to IoT")
