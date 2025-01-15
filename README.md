@@ -6,6 +6,10 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![IT Specialist - Networking](https://images.credly.com/size/110x110/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png)](http://www.credly.com/badges/99724e39-7534-4700-8afc-a348a17cb0bd "IT Specialist - Networking")
+[![IT Technical Support Specialist](https://images.credly.com/size/110x110/images/2eebb247-4311-497a-bda0-487a5365648e/Technical_Support_Badge_1200x1200px.png)](http://www.credly.com/badges/99a6d636-7dff-4fb9-82c5-416c9fbfc05b "IT Technical Support Specialist")
+[![IT Specialist - Device Configuration and Management](https://images.credly.com/size/110x110/images/cd50df53-14eb-427b-8cae-2f09d5b15b41/ITS-Badges_Device-Configure_1200px.png)](http://www.credly.com/badges/55453547-94cf-486a-ae90-7136a07c81d7 "IT Specialist - Device Configuration and Management")
+[![IT Specialist - Network Security](https://images.credly.com/size/110x110/images/fa85b446-fcbf-44c0-991f-064d37ae7a6f/ITS-Badges_Network-Security_1200px.png)](http://www.credly.com/badges/ccf1cc22-1fa0-4852-8641-9d62fb06240c "IT Specialist - Network Security")
 [![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/d4074271-3f5a-4099-938b-aa90106ef872 "Endpoint Security")
 [![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](http://www.credly.com/badges/252fad33-da4e-4e57-8c25-e929fc0c40b3 "Junior Cybersecurity Analyst Career Path")
 [![Network Defense](https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](http://www.credly.com/badges/d4e54453-3376-4694-81d9-85a6e1044a29 "Network Defense")
