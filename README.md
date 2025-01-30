@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![Networking Academy Learn-A-Thon 2024](https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png)](http://www.credly.com/badges/927d4301-f7fb-4078-9475-abcfba91efd3 "Networking Academy Learn-A-Thon 2024")
 [![IT Specialist - Networking](https://images.credly.com/size/110x110/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png)](http://www.credly.com/badges/99724e39-7534-4700-8afc-a348a17cb0bd "IT Specialist - Networking")
 [![IT Technical Support Specialist](https://images.credly.com/size/110x110/images/2eebb247-4311-497a-bda0-487a5365648e/Technical_Support_Badge_1200x1200px.png)](http://www.credly.com/badges/99a6d636-7dff-4fb9-82c5-416c9fbfc05b "IT Technical Support Specialist")
 [![IT Specialist - Device Configuration and Management](https://images.credly.com/size/110x110/images/cd50df53-14eb-427b-8cae-2f09d5b15b41/ITS-Badges_Device-Configure_1200px.png)](http://www.credly.com/badges/55453547-94cf-486a-ae90-7136a07c81d7 "IT Specialist - Device Configuration and Management")
