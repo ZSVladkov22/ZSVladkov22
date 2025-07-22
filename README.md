@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/12d79e2f-1be4-4158-8100-daa258209616" title="PMI Project Management Ready™"><img src="https://images.credly.com/size/80x80/images/650208e5-851e-45d3-9ee9-cea899428427/blob" alt="PMI Project Management Ready™" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/7ae2eb63-5c17-4abe-ace9-9d6149fbb6aa" title="Cisco Certified Support Technician IT Support (CCST IT Support) - Lifetime"><img src="https://images.credly.com/size/80x80/images/02475f2d-e6b7-4a42-bf4e-b19a64ed81bf/image.png" alt="Cisco Certified Support Technician IT Support (CCST IT Support) - Lifetime" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/29a7c142-8c58-42a8-8351-9ef6a1897499" title="Cisco Certified Support Technician Networking (CCST Networking) - Lifetime"><img src="https://images.credly.com/size/80x80/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png" alt="Cisco Certified Support Technician Networking (CCST Networking) - Lifetime" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/927d4301-f7fb-4078-9475-abcfba91efd3" title="Networking Academy Learn-A-Thon 2024"><img src="https://images.credly.com/size/80x80/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Networking Academy Learn-A-Thon 2024" width="80" height="80"></a>
