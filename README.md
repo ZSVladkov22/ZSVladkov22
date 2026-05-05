@@ -6,6 +6,7 @@
 ### 📚 Badges
 
 <!--START_SECTION:badges-->
+[![Cisco Networking Academy Capture the Flag 2026](https://images.credly.com/size/80x80/images/f3534616-ba00-42b2-bdb6-8a8420e5405a/blob)](https://www.credly.com/badges/333c6ced-671b-4266-909d-c42d8a53a50f)
 [![IT Specialist - Cloud Computing](https://images.credly.com/size/80x80/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png)](https://www.credly.com/badges/10800b3d-1523-47cf-bd37-5b78d5ab53e5)
 [![Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)](https://images.credly.com/size/80x80/images/fb647b84-b5ee-44fc-979f-24dd67bf6703/image.png)](https://www.credly.com/badges/d2a085f7-b310-41cb-abaf-603e917b11fe)
 [![IT Specialist - Computational Thinking](https://images.credly.com/size/80x80/images/34be5a4c-211c-4796-9983-34c46a3d1e8a/_ITS-Badges-Computational-Think.png)](https://www.credly.com/badges/63d553c6-7971-4d7d-8f9d-8c7a3fc6500a)
