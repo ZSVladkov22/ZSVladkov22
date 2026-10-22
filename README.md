@@ -19,6 +19,7 @@
 [![IT Specialist - Networking](https://images.credly.com/size/80x80/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png)](https://www.credly.com/badges/99724e39-7534-4700-8afc-a348a17cb0bd)
 [![IT Specialist - Network Security](https://images.credly.com/size/80x80/images/fa85b446-fcbf-44c0-991f-064d37ae7a6f/ITS-Badges_Network-Security_1200px.png)](https://www.credly.com/badges/ccf1cc22-1fa0-4852-8641-9d62fb06240c)
 [![IT Technical Support Specialist](https://images.credly.com/size/80x80/images/2eebb247-4311-497a-bda0-487a5365648e/Technical_Support_Badge_1200x1200px.png)](https://www.credly.com/badges/99a6d636-7dff-4fb9-82c5-416c9fbfc05b)
+[![Adobe Certified Professional in Visual Design](https://images.credly.com/size/80x80/images/19d96e55-f15c-44d9-9568-43f83505bd5b/Adobe_Certified_Professional_Visual_Design_digital_badge.png)](https://www.credly.com/badges/196dd367-fe99-48e0-8059-1a749c6615f3)
 [![Endpoint Security](https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/d4074271-3f5a-4099-938b-aa90106ef872)
 [![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/80x80/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](https://www.credly.com/badges/252fad33-da4e-4e57-8c25-e929fc0c40b3)
 [![Network Defense](https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](https://www.credly.com/badges/d4e54453-3376-4694-81d9-85a6e1044a29)
@@ -36,12 +37,11 @@
 [![IT Specialist - HTML and CSS](https://images.credly.com/size/80x80/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png)](https://www.credly.com/badges/ef986e58-3c5b-4831-982a-70833745b91e)
 [![Microsoft Office Specialist: Word Associate (Office 2019)](https://images.credly.com/size/80x80/images/b9912ce7-7c17-40bc-afbb-ca4251ea1416/MOS_Word.png)](https://www.credly.com/badges/a3969d0f-a47c-4bed-8c81-13b19f815867)
 [![Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)](https://images.credly.com/size/80x80/images/323ec4a8-7d1f-486f-9c68-258947965b8e/image.png)](https://www.credly.com/badges/8c9ee979-cc31-409f-9e9f-68ffad8ceb9e)
+[![Adobe Certified Professional in Digital Video Using Adobe Premiere](https://images.credly.com/size/80x80/images/487b0a79-e99b-43ce-a7d8-28a76d5aa2d8/Adobe_Certified_Professional_Adobe_Premiere_Pro_digital_badge.png)](https://www.credly.com/badges/eebd4a92-a8a1-40e6-8a85-76ac2e878ab2)
+[![Adobe Certified Professional in Graphic Design and Illustration Using Adobe Illustrator](https://images.credly.com/size/80x80/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png)](https://www.credly.com/badges/2eb14834-8660-4e00-b5f0-d817a74fc423)
+[![Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://images.credly.com/size/80x80/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png)](https://www.credly.com/badges/28ae60a2-8dba-4cc8-9236-5141959bb383)
 [![App Development with Swift Associate](https://images.credly.com/size/80x80/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)](https://www.credly.com/badges/f1269f48-d771-4798-9261-82801e054d9d)
 [![Adobe Certified Professional in Video Design](https://images.credly.com/size/80x80/images/2753898c-fa5b-4058-9366-a3ce365d5845/Adobe_Certified_Professional_Video_Design_digital_badge.png)](https://www.credly.com/badges/600c3e19-9542-41e5-a3ec-03e3fd15109c)
-[![Adobe Certified Professional in Digital Video Using Adobe Premiere](https://images.credly.com/size/80x80/images/487b0a79-e99b-43ce-a7d8-28a76d5aa2d8/Adobe_Certified_Professional_Adobe_Premiere_Pro_digital_badge.png)](https://www.credly.com/badges/ac22aed3-9ac8-4827-b1c4-d84572495bd2)
-[![Adobe Certified Professional in Visual Design](https://images.credly.com/size/80x80/images/19d96e55-f15c-44d9-9568-43f83505bd5b/Adobe_Certified_Professional_Visual_Design_digital_badge.png)](https://www.credly.com/badges/de98c2ba-07bd-437f-940f-fd0bf868e007)
-[![Adobe Certified Professional in Graphic Design and Illustration Using Adobe Illustrator](https://images.credly.com/size/80x80/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png)](https://www.credly.com/badges/b468b80c-2194-4820-8f74-a1ddb41db9c4)
-[![Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://images.credly.com/size/80x80/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png)](https://www.credly.com/badges/f9249f29-eb03-4b76-b3ba-df59e98711da)
 <!--END_SECTION:badges-->
 <br>
 <hr>
