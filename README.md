@@ -11,6 +11,7 @@
 [![Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)](https://images.credly.com/size/80x80/images/fb647b84-b5ee-44fc-979f-24dd67bf6703/image.png)](https://www.credly.com/badges/d2a085f7-b310-41cb-abaf-603e917b11fe)
 [![IT Specialist - Computational Thinking](https://images.credly.com/size/80x80/images/34be5a4c-211c-4796-9983-34c46a3d1e8a/_ITS-Badges-Computational-Think.png)](https://www.credly.com/badges/63d553c6-7971-4d7d-8f9d-8c7a3fc6500a)
 [![Network Security Support Technician](https://images.credly.com/size/80x80/images/25a0a5f5-56db-4560-8549-14889b105db2/image.png)](https://www.credly.com/badges/72b40c88-4d65-42ee-8c1f-fa09949e2f19)
+[![Adobe Certified Professional in Video Design](https://images.credly.com/size/80x80/images/2753898c-fa5b-4058-9366-a3ce365d5845/Adobe_Certified_Professional_Video_Design_digital_badge.png)](https://www.credly.com/badges/e294d705-3cc8-4b8c-8850-054a5985a400)
 [![PMI Project Management Ready™](https://images.credly.com/size/80x80/images/650208e5-851e-45d3-9ee9-cea899428427/blob)](https://www.credly.com/badges/12d79e2f-1be4-4158-8100-daa258209616)
 [![Cisco Certified Support Technician IT Support (CCST IT Support) - Lifetime](https://images.credly.com/size/80x80/images/02475f2d-e6b7-4a42-bf4e-b19a64ed81bf/image.png)](https://www.credly.com/badges/7ae2eb63-5c17-4abe-ace9-9d6149fbb6aa)
 [![Cisco Certified Support Technician Networking (CCST Networking) - Lifetime](https://images.credly.com/size/80x80/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](https://www.credly.com/badges/29a7c142-8c58-42a8-8351-9ef6a1897499)
@@ -41,7 +42,6 @@
 [![Adobe Certified Professional in Graphic Design and Illustration Using Adobe Illustrator](https://images.credly.com/size/80x80/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png)](https://www.credly.com/badges/2eb14834-8660-4e00-b5f0-d817a74fc423)
 [![Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://images.credly.com/size/80x80/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png)](https://www.credly.com/badges/28ae60a2-8dba-4cc8-9236-5141959bb383)
 [![App Development with Swift Associate](https://images.credly.com/size/80x80/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png)](https://www.credly.com/badges/f1269f48-d771-4798-9261-82801e054d9d)
-[![Adobe Certified Professional in Video Design](https://images.credly.com/size/80x80/images/2753898c-fa5b-4058-9366-a3ce365d5845/Adobe_Certified_Professional_Video_Design_digital_badge.png)](https://www.credly.com/badges/600c3e19-9542-41e5-a3ec-03e3fd15109c)
 <!--END_SECTION:badges-->
 <br>
 <hr>
